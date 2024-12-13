@@ -1,0 +1,4 @@
+Ex6.c:12:6:clear7SEG	8	static
+Ex6.c:23:6:display7SEG	16	static
+Ex6.c:124:6:update7SEG	16	static
+Ex6.c:167:6:updateClockBuffer	16	static
